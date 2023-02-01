@@ -268,8 +268,8 @@
 
 <!-- Load Scripts Start -->
 <script src="{{asset('theme/js/libs.min.js')}}"></script>
-{{--<script src="{{asset('theme/js/gallery-init.js')}}"></script>--}}
-{{--<script src="{{asset('theme/js/custom.js')}}"></script>--}}
+<script src="{{asset('theme/js/gallery-init.js')}}"></script>
+<script src="{{asset('theme/js/custom.js')}}"></script>
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 <script>
 $('.notify-form').on('submit', function(e) {
